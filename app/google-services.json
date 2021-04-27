@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "446050444943",
+    "firebase_url": "https://transfinitte-bf790.firebaseio.com",
+    "project_id": "transfinitte-bf790",
+    "storage_bucket": "transfinitte-bf790.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446050444943:android:c22d03d431c638b67f32fa",
+        "android_client_info": {
+          "package_name": "com.example.transfinitte_decoders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446050444943-ral5m1psqt98c4kq2ue0l4uvr7g9fuu1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.transfinitte_decoders",
+            "certificate_hash": "731f659a8685a9a3232fd9c350d2fc2ab8b1c7ed"
+          }
+        },
+        {
+          "client_id": "446050444943-p3ei0nb38k44dl7cnekra6chqad530hr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5AalUY55oejESrxgpe-VXNJvF4mcR68I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446050444943-p3ei0nb38k44dl7cnekra6chqad530hr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
